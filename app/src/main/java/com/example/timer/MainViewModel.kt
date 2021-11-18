@@ -1,9 +1,7 @@
 package com.example.timer
 
 import android.os.CountDownTimer
-import android.util.Log
 import android.widget.SeekBar
-import android.widget.TextView
 import androidx.databinding.ObservableField
 import androidx.lifecycle.ViewModel
 

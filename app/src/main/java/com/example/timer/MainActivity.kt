@@ -1,7 +1,5 @@
 package com.example.timer
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
 import android.widget.SeekBar
 import androidx.activity.viewModels
 import com.example.timer.databinding.ActivityMainBinding
